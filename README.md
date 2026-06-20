@@ -1,21 +1,30 @@
-#UltraFocus 
+\#UltraFocus
 
 Aplicação móvel de produtividade e gestão de foco desenvolvida no âmbito da PAP.
 
 ## Funcionalidades
 
-- Sessões Pomodoro
-- Sessões de Foco Personalizadas
-- Sistema de Recompensas
-- Sistema de Níveis
-- Distintivos
-- Sequências
-- Estatísticas
-- Tema claro e Escuro
+* Sessões Pomodoro
+* Sessões de Foco Personalizadas
+* Sistema de Recompensas
+* Sistema de Níveis
+* Distintivos
+* Sequências
+* Estatísticas
+* Tema claro e Escuro
 
 ## Tecnologias
 
-- Java
-- Android Studio
-- FireBase
-- Room Database
+* Java
+* Android Studio
+* FireBase
+* Room Database
+
+
+
+
+
+\## Estado do Projeto 
+
+Projeto concluído e preparado para a defesa da PAP.
+
